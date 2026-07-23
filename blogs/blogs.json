@@ -1,0 +1,14 @@
+{
+  "repo": "all-city-network",
+  "feeds": [
+    {
+      "source": "https://allcitynetwork.com/about/",
+      "feed_url": "https://allcitynetwork.com/feed/",
+      "title": "",
+      "saved": 2,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 2,
+  "fetched": "2026-07-20T13:31:34Z"
+}
